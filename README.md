@@ -24,6 +24,8 @@ Follow the instructions for Linux installation > Linux Terminal Installer > Linu
 > conda install bioconda::samtools -yes
 >
 > conda install openjdk=8 --yes
+>
+> pip install gbprocess-ngs
 
 Install different java versions with:
 > sudo apt install openjdk-8-jre* openjdk-11-jdk-headless openjdk-11-jre-headless openjdk-17-jdk-headless openjdk-17-jre-headless
