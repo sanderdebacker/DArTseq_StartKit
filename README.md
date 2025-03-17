@@ -21,7 +21,7 @@ Follow the instructions for Linux installation > Linux Terminal Installer > Linu
 >
 > conda install bioconda::bwa --yes
 >
-> conda install bioconda::samtools -yes
+> conda install bioconda::samtools --yes
 >
 > conda install openjdk=8 --yes
 >
